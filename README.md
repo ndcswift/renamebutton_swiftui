@@ -12,7 +12,7 @@ Folio is a minimal SwiftUI notes app built to demonstrate two complementary rena
 - **Binding-based `List`** — demonstrates `List($notes) { $note in }` so row mutations propagate back to the source of truth without extra plumbing
 
 ## 📺 Watch on YouTube
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/lMtY_zY7Vpw)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
 
@@ -50,4 +50,4 @@ Update the bundle identifier to something unique (e.g. `com.yourname.folio`) so 
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/lMtY_zY7Vpw)
